@@ -28,7 +28,7 @@ class _UsersListState extends State<UsersList> {
     "Микерин В.",
     "Антюхов Н."
   ];
-  final List<String> authors = ["Пилипенко Д.", "Теплякова А.", "Ветчинова В."];
+  final List<String> authors = ["Горбачевский А.И"];
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
