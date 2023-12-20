@@ -15,9 +15,9 @@ class UsersList extends StatefulWidget {
 
 class _UsersListState extends State<UsersList> {
   final List<String> users = [
-    "Зуев К.",
+    "Горбачевский А.",
     "Сайфидинов И.",
-    "Максим С.",
+    "Ситников М.",
     "Ганеев В.",
     "Гильметдинов М.",
     "Киселёв Г.",
@@ -28,7 +28,7 @@ class _UsersListState extends State<UsersList> {
     "Микерин В.",
     "Антюхов Н."
   ];
-  final List<String> authors = ["Горбачевский А.И"];
+  final List<String> authors = ["Горбачевский А."];
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
