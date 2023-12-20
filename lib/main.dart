@@ -15,9 +15,9 @@ class UsersList extends StatefulWidget {
 
 class _UsersListState extends State<UsersList> {
   final List<String> users = [
-    "Теплякова А.",
-    "Пилипенко Д.",
-    "Ветчинова В.",
+    "Зуев К.",
+    "Сайфидинов И.",
+    "Максим С.",
     "Ганеев В.",
     "Гильметдинов М.",
     "Киселёв Г.",
